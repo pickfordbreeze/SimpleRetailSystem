@@ -9,7 +9,6 @@ Book::Book(const std::string category, const std::string name, double price, int
                                                                isbn_(isbn),
                                                                author_(author) {}
 // book constructor : initializer list base class product, w/ member vars isbn and author
-// i have a weird extension on in my vs code that 'fixes' the formatting everytime I save and idk how to stop it so this upper part is really weird looking
 
 Book::~Book() {}
 

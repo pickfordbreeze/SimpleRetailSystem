@@ -12,7 +12,7 @@ This repo contains my impelmentation of a simplified online retail system, takin
 
 ```
 Skills demonstrated:
-        Demonstrated ability in object-oriented design and programming in C++
+        Demonstrated ability in object-oriented design and programming in C++ (specifically inheritance & polymorphism)
         Advanced file I/O operations for db management
         Implemention of effient search algorithm
         Implementation of UI design for terminal based applications

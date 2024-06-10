@@ -2,7 +2,7 @@
 C++ Inheritance, Polymorphism, and STL project. Completed 02/09/24
 
 ## Project Overview
-This repo contains my impelmentation of a simplified online retail system, taking inspiration from an Amazon like platform. This project involves reading a database of products and users, handling searches, managing carts, and processing purchases. This project was created for a class assignment in spring 2024 on which I achieved a perfect score. 
+This repo contains my impelmentation of a simplified online retail system, taking inspiration from an Amazon like platform. This project involves using key OOP principles to build a flexible and scalable system that involves reading a database of products and users, handling searches, managing carts, and processing purchases. This project was created for a class assignment in spring 2024 on which I achieved a perfect score. 
 
 ### Features
 - Product and User DB Management: Implements effient storage and retrival mechanisms for product characteristics (ex: name, price, attributes) and user info (ex: username, and credit amount).

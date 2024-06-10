@@ -27,7 +27,7 @@ Skills demonstrated:
 - util.cpp: Contains utility functions for string processing and set operations.
 - mydatastore.cpp: Implements the core functionality of the retail system.
 
-### Demonstrating Understanding of Inheritance & Polymorphism:
+### Understanding of Inheritance & Polymorphism:
 #### Use of Classes:
 - Base Class (Product): Defined in product.h, this abstract class provides the framework with common attributes like name, price, and quantity.
 - Derived Classes (Book, Clothing, Movie): These classes are defined in book.h, clothing.h, and movie.h, each adding unique attributes and methods relevant to their specific product category.

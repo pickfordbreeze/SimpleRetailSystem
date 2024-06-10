@@ -12,7 +12,7 @@ This repo contains my impelmentation of a simplified online retail system, takin
 
 ```
 Skills demonstrated:
-        Demonstrated ability in object-oriented design and programming in C++ (specifically inheritance & polymorphism)
+        Demonstrated ability in object-oriented design and programming in C++
         Advanced file I/O operations for db management
         Implemention of effient search algorithm
         Implementation of UI design for terminal based applications
@@ -26,4 +26,12 @@ Skills demonstrated:
 - db_parser.cpp, product_parser.cpp: Parsing utilities for loading database entries.
 - util.cpp: Contains utility functions for string processing and set operations.
 - mydatastore.cpp: Implements the core functionality of the retail system.
-        
+
+### Demonstrating Understanding of Inheritance & Polymorphism:
+#### Use of Classes:
+- Base Class (Product): Defined in product.h, this abstract class provides the framework with common attributes like name, price, and quantity.
+- Derived Classes (Book, Clothing, Movie): These classes are defined in book.h, clothing.h, and movie.h, each adding unique attributes and methods relevant to their specific product category.
+
+#### Polymorphic Behaviors:
+- Virtual Methods: The displayString() and keywords() methods are virtual in the base Product class and are overridden in each derived class to cater to specific product details and search functionality.
+- Usage in Data Handling: Operations on collections of products utilize base class pointers to dynamically refer to objects of derived classes, leveraging polymorphic behavior for generic processing.

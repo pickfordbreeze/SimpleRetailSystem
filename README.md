@@ -10,7 +10,8 @@ This repo contains my impelmentation of a simplified onluine retail system, taki
 - Shopping Cart Functionality: Lets users add products to cart, view their cart, and purchase items, making sure to check against stock availibility and user funds.
 - Session Persistence: Allows saving the updated state of the db after transactions to reflect changes in quantities and user funds.
 
-```    Skills demonstrated:
+```
+Skills demonstrated:
         Demonstrated ability in object-oriented design and programming in C++
         Advanced file I/O operations for db management
         Implemention of effient search algorithm
